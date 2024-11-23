@@ -170,7 +170,9 @@ h6 {
   max-height: 32px;
   margin-right: 8px;
 }
-
+.header .logo-name {
+  display: flex;
+}
 .header .logo h1 {
   font-size: 30px;
   margin: 0;
